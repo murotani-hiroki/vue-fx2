@@ -1,5 +1,11 @@
 # mrtnfx2
 
+## Vuexの追加
+```
+vue add vuex
+```
+<br><br>
+
 ## Project setup
 ```
 npm install
