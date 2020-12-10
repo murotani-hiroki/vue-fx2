@@ -4,6 +4,7 @@
 ```
 vue add vuex
 ```
+./store/index.js にvuexの雛形が作成される。
 <br><br>
 
 ## Project setup
